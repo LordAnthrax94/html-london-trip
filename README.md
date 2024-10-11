@@ -25,3 +25,5 @@ Terza sezione con inserimento dell'elenco ordinato con sotto elenco non ordinato
 -Compilazione del footer con annesse immagini all'ineterno di esso
 
 -Ultimo commit e consegna esercizio
+
+-Durante l'esercizio sono stati effettuati più commit di quelli previsti
